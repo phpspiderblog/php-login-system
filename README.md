@@ -32,3 +32,5 @@ Basic PHP login system with registration, login validation, session protection, 
 - Secure password hashing with `password_hash()`.
 - Login verification with `password_verify()`.
 - Protected dashboard using PHP sessions.
+
+For more updates [https://phpspiderblog.com]
